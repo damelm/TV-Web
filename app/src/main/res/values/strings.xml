@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TV Web</string>
+
+    <string name="btn_add">+ Anadir direccion</string>
+    <string name="hint_longpress">Pulsa OK para abrir. Manten pulsado OK para editar o borrar.</string>
+    <string name="empty_hint">No hay direcciones guardadas.\nPulsa \"Anadir direccion\" para empezar.</string>
+
+    <string name="title_add">Anadir direccion</string>
+    <string name="title_edit">Editar direccion</string>
+    <string name="hint_name">Nombre (ej. Mi canal)</string>
+    <string name="hint_url">Direccion web (ej. ejemplo.com)</string>
+
+    <string name="action_open">Abrir</string>
+    <string name="action_edit">Editar</string>
+    <string name="action_delete">Borrar</string>
+    <string name="action_save">Guardar</string>
+    <string name="action_cancel">Cancelar</string>
+
+    <string name="confirm_delete">Seguro que quieres borrar \"%1$s\"?</string>
+</resources>

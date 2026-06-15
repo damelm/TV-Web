@@ -1,0 +1,22 @@
+# Compilacion
+/build
+/app/build
+.gradle/
+captures/
+
+# Configuracion local de la maquina
+local.properties
+
+# Firma / secretos (NUNCA subir)
+keystore.properties
+*.jks
+*.keystore
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
